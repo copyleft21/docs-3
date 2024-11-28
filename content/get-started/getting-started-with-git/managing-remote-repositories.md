@@ -1,4 +1,10 @@
----
+$ git remote add origin https://github.com/OWNER/REPOSITORY.git
+# Set a new remote
+
+$ git remote -v
+# Verify new remote
+> origin  https://github.com/OWNER/REPOSITORY.git (fetch)
+> origin  https://github.com/OWNER/REPOSITORY.git (push)
 title: Managing remote repositories
 intro: 'Learn to work with your local repositories on your computer and remote repositories hosted on {% data variables.product.product_name %}.'
 redirect_from:
